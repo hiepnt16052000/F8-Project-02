@@ -1,0 +1,20 @@
+:root {
+  --background-color-01: #fffcf4;
+  --background-color-02: #2e2100;
+  --text-primary-color: #171100;
+  --text-secondary-color: #5f5b53;
+  --yellow-color: #ffb900;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+}
